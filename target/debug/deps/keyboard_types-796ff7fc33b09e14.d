@@ -1,0 +1,11 @@
+c:\Users\jaked\Documents\GitHub\Rust-Project\GUI\target\debug\deps\keyboard_types-796ff7fc33b09e14.rmeta: C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\lib.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\code.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\key.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\location.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\modifiers.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\shortcuts.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\webdriver.rs
+
+c:\Users\jaked\Documents\GitHub\Rust-Project\GUI\target\debug\deps\keyboard_types-796ff7fc33b09e14.d: C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\lib.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\code.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\key.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\location.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\modifiers.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\shortcuts.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\webdriver.rs
+
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\lib.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\code.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\key.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\location.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\modifiers.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\shortcuts.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\keyboard-types-0.6.2\src\webdriver.rs:

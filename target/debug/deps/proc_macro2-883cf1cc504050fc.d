@@ -1,0 +1,12 @@
+c:\Users\jaked\Documents\GitHub\Rust-Project\GUI\target\debug\deps\proc_macro2-883cf1cc504050fc.rmeta: C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\lib.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\marker.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\parse.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\rcvec.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\detection.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\fallback.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\wrapper.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\location.rs
+
+c:\Users\jaked\Documents\GitHub\Rust-Project\GUI\target\debug\deps\proc_macro2-883cf1cc504050fc.d: C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\lib.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\marker.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\parse.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\rcvec.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\detection.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\fallback.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\wrapper.rs C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\location.rs
+
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\lib.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\marker.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\parse.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\rcvec.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\detection.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\fallback.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\wrapper.rs:
+C:\Users\jaked\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.51\src\location.rs:
